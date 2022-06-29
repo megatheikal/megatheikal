@@ -3,9 +3,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I am working as Software Engineer
+💻 &nbsp;I am working as Software Engineer.\
 🎓 &nbsp;A graduated Computer Science student at International Islamic University Malaysia.\
-🌱 &nbsp;Currently, learn Blockchain and Cloud Architecture.\
 ✉️ &nbsp;Ping me on hello@megatheikal.com and I'll try to respond as soon as I can.
 
 
