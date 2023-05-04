@@ -1,10 +1,8 @@
 ### :wave: Hi there, I'm Megat Heikal 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=megatheikal.megatheikal)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I am working as Software Engineer.\
-🎓 &nbsp;A graduated Computer Science student at International Islamic University Malaysia.\
+💻 &nbsp;A Software Engineer at startup.\
 ✉️ &nbsp;Ping me on hello@megatheikal.com and I'll try to respond as soon as I can.
 
 
